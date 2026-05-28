@@ -1,5 +1,7 @@
 # Game Hacking 
-Étant novice dans le monde des CTF, c'était la première fois que je rencontrais une catégorie Game Hacking. Je n'avais alors pas compris par quel moyen on devait trouver les flags, c'est pour cela que j'ai tenté de jouer au jeu de façon "normale".
+Étant novice dans le monde des CTF, c'était la première fois que je rencontrais une catégorie Game Hacking. Je n'avais alors pas compris par quel moyen on devait trouver les flags, c'est pour cela que j'ai tenté de jouer au jeu de façon "normale". 
+
+J'ai tout de même réussi à first blood le challenge [Rush B no stop 4/5](README.md#rush-b-no-stop-45-difficult%C3%A9--easy) de cette manière.
 
 > [!CAUTION]
 > J'explique ici tout mon raisonnement, donc pour ceux qui veulent juste voir ce que j'ai fait au final, regardez simplement les GIFs !
@@ -60,6 +62,8 @@ Pour cette option, j'ai découvert que le drône tirait des munitions qui ne nou
 J'ai donc joué avec le moteur de collision du jeu plusieurs fois afin d'atteindre la fin du niveau et obtenir le flag au moment d'atteindre la porte vers la salle n°5.
 
 ![Flag n°4](src/flag_4.gif)
+
+
 
 ## A way back home [5/5] (Difficulté : Hard)
 
