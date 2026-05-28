@@ -22,7 +22,7 @@ Ne trouvant pas comment activer la porte, j'ai commencé à chercher des moyens 
 J'ai ensuite pu observer qu'un léger morceau de mur dépassait à un autre endroit et j'ai tenté de sauter dessus. J'ai vu qu'il me retenait légèrement avant de me laisser tomber, alors j'ai tenté avec un nouvel angle, en allant le plus loin possible et c'était enfin bon.
 Il ne me restait plus qu'à sauter par dessus le mur (après avoir tenté de sauter sur le toit à côté de moi mais qui était en fait non-solide...) et j'ai pu accéder à la 2e partie de la salle, puis à la porte menant à la salle suivante.
 
-<video src="src/flag_2.mp4" controls alt="Flag n°2"></video>
+![Flag n°2](src/flag_2.gif)
 
 ## Kill them all [3/5] (Difficulté : Medium)
 
@@ -32,7 +32,7 @@ Le problème est que comme je ne sais toujours pas comment m'y prendre (😅), j
 
 En allant vers la porte qui mène à la suite du niveau, j'ai vu que je pouvais intéragir avec cette dernière en me tenant sur son côté, et donc passer directement à la salle suivante.
 
-<video src="src/flag_3.mp4" controls alt="Flag n°3"></video>
+![Flag n°3](src/flag_3.gif)
 
 ## Rush B no stop [4/5] (Difficulté : Easy)
 
@@ -46,7 +46,7 @@ Pour cette option, j'ai découvert que le drône tirait des munitions qui ne nou
 
 J'ai donc joué avec le moteur de collision du jeu plusieurs fois afin d'atteindre la fin du niveau et obtenir le flag au moment d'atteindre la porte vers la salle n°5.
 
-<video src="src/flag_4.mp4" controls alt="Flag n°4"></video>
+![Flag n°4](src/flag_4.gif)
 
 ## A way back home [5/5] (Difficulté : Hard)
 
@@ -56,4 +56,4 @@ Flag n°5, cette fois-ci il fallait aller tout en haut du phare dans lequel on v
 
 Que ce soit en avant ou en arrière, rien ne fonctionnait. 
 
-J'ai donc décidé d'arrêter là sans pouvoir finir le jeu 😔🥺.
+J'ai donc décidé d'arrêter là sans pouvoir finir le jeu 😤😔.
