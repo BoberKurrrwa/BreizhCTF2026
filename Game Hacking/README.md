@@ -4,6 +4,19 @@
 > [!CAUTION]
 > J'explique ici tout mon raisonnement, donc pour ceux qui veulent juste voir ce que j'ai fait au final, regardez simplement les GIFs !
 
+| Nom | Difficulté | Lien |
+|-----|------------|------|
+| Welcome to Happy's adventures [1/5] | Very Easy | [lien](README.md#welcome-to-happys-adventures-15-difficult%C3%A9--very-easy) |
+| A way out [2/5] | Easy | [lien](README.md#a-way-out-25-difficult%C3%A9--easy) |
+| Kill them all [3/5] | Medium | [lien](README.md#kill-them-all-35-difficult%C3%A9--medium) |
+| Rush B no stop [4/5] | Easy | [lien](README.md#rush-b-no-stop-45-difficult%C3%A9--easy) |
+| A way back home [5/5] | Hard | [lien](README.md#a-way-back-home-55-difficult%C3%A9--hard) |
+
+
+
+
+
+
 ## Welcome to Happy's adventures [1/5] (Difficulté : Very Easy)
 
 Pour le Flag n°1, il suffisait de lancer le jeu et de se rendre sur l'ordinateur dans la première salle (chose que je n'ai pas faite à la première tentative puisque j'ai intéragit directement avec le canapé, me faisant alors entrer dans une cinématique qui nous amène dans la salle suivante...).
