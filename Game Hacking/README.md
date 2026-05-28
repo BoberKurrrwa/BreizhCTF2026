@@ -2,7 +2,7 @@
 Étant novice dans le monde des CTF, c'était la première fois que je rencontrais une catégorie Game Hacking. Je n'avais alors pas compris par quel moyen on devait trouver les flags, c'est pour cela que j'ai tenté de jouer au jeu de façon "normale".
 
 > [!CAUTION]
-> J'explique ici tout mon raisonnement, donc pour ceux qui veulent juste voir ce que j'ai fait au final, regardez simplement les vidéos !
+> J'explique ici tout mon raisonnement, donc pour ceux qui veulent juste voir ce que j'ai fait au final, regardez simplement les GIFs !
 
 ## Welcome to Happy's adventures [1/5] (Difficulté : Very Easy)
 
